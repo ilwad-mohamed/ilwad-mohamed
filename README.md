@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - GitHub: @ilwad-mohamed
 -Email: ilwadmaxamed24@gmail.com
--LinkedIn: illy jamal
+-LinkedIn: ilwad mohamed
 - 😄 Pronouns: illy
 - ⚡ Fun fact: I've built a mobile app using React Native!
 
